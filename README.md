@@ -13,7 +13,7 @@ A formação está organizada em **6 eixos temáticos**, acessíveis conforme o 
 1. Fundamentos da Gestão Documental  
 2. Classificação de Documentos (PCD)  
 3. Tabela de Temporalidade (TTDD)  
-4. Gestão de Documentos Digitais (PBDoc)  
+4. Gestão de Documentos Digitais (SIGAD)  
 5. Preservação Digital e Segurança da Informação  
 6. Avaliação, Destinação e Eliminação  
 
@@ -32,7 +32,7 @@ A trilha foi estruturada para atender **7 perfis no serviço público**:
 ## ⚙️ Abordagem Técnica
 
 - Integra conceitos tradicionais da Arquivologia com práticas digitais  
-- Aplicação direta no uso do **PBDoc**  
+- Aplicação direta no uso do **SIGAD**  
 - Estrutura baseada em **boas práticas do CONARQ**  
 - Foco em resolução de passivo documental  
 
@@ -74,7 +74,7 @@ Servidores públicos estaduais e municipais envolvidos com:
 ## 👤 Autor
 
 **Josealdo Leite**  
-Arquivista | Gerente Executivo de Gestão Documental – SEMTD  
+Arquivista | Analista de Sistemas
 Paraíba, Brasil  
 
 🌐 https://josealdo.com.br  
